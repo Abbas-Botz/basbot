@@ -24,7 +24,7 @@ exports.gameMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}math
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Abbas Mods*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -48,7 +48,7 @@ exports.funMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}rate
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Abbas Mods*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -75,7 +75,7 @@ exports.otherMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}ytsearch _query_
 
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Abbas Mods*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
